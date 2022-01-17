@@ -13,4 +13,4 @@ https://github.com/zefie/miniBAE
 **Chiptune** - A minimal GM set using very tiny chiploop samples. Aims for the smallest size with the best sound. Under 14k.
 **Pico** - A square wave that's mapped to all GM patches. Very loosely compatible. This is the most barebones bank.
 **Freekia** - An effort to replicate the Nokia chippy bank found on phones such as the 3510, 7210, 3220, using only libre samples and instruments. Most of them are from other Beatnik banks.
-**nPatches Lite** A variation of SalterNokia with IMA-ADPCM and A-Law compressed samples.
+**nPatches Lite / npatches-alaw.hsb** A variation of SalterNokia with IMA-ADPCM and A-Law compressed samples.
