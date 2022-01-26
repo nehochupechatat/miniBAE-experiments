@@ -16,4 +16,8 @@ https://github.com/zefie/miniBAE
 
 **Freekia** - An effort to replicate the Nokia chippy bank found on phones such as the 3510, 7210, 3220, using only libre samples and instruments. Most of them are from other Beatnik banks.
 
-**nPatches Lite / npatches-alaw.hsb** A variation of SalterNokia with IMA-ADPCM and A-Law compressed samples.
+**nPatches Lite / npatches-alaw.hsb** - A variation of SalterNokia with IMA-ADPCM and A-Law compressed samples.
+
+**nanoSalt** - A very tiny version of SalterNokia that's under 10kb.
+ 
+**nanoChip** - 8k version of the chiptune bank
