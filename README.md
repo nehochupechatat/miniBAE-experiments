@@ -14,7 +14,7 @@ https://github.com/zefie/miniBAE
 
 **Pico** - A square wave that's mapped to all GM patches. Very loosely compatible. This is the most barebones bank.
 
-**Freekia** - An effort to replicate the Nokia chippy bank found on phones such as the 3510, 7210, 3220, using only libre samples and instruments. Most of them are from other Beatnik banks.
+**Freekia** - An effort to replicate the Nokia chippy bank found on phones such as the 3510, 7210, 3220, using only libre samples and instruments. Most of them are from other Beatnik banks. However, it isn't needed since Beatnik owns the rights to the small bank. It's going open source as of now.
 
 **nPatches Lite / npatches-alaw.hsb** - A variation of SalterNokia with IMA-ADPCM and A-Law compressed samples.
 
